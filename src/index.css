@@ -26,17 +26,21 @@ body > div {
   display: flex;
   align-items: center;
   justify-content: center;
+  /* background-color: #ee41b5; */
 }
 .red {
-  background-color: #b05f6d;
+  background-color: #b80120;
   color: white;
 }
 .blue {
-  background-color: #275db3;
+  background-color: blue;
   color: white;
 }
 
-
-#main-section {
+.home{
   background-color: pink;
 }
+/* 
+#main-section {
+  background-color: pink;
+} */
